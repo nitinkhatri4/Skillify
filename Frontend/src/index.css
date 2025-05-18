@@ -1,0 +1,9 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+@import "tailwindcss";
+
+/* 
+body {
+    @apply bg-secondary-50 text-secondary-800;
+} */
