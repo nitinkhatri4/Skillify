@@ -17,7 +17,7 @@ const app = express();
 // ✅ Allowed CORS origins
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://skillify-alpha.vercel.app/",
+  "https://skillify-alpha.vercel.app/"
 ];
 
 // ✅ CORS middleware — only once and BEFORE all routes
